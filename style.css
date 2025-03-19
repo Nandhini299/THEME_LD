@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+
+button{
+    height: 50px;
+    width: 100px;
+    background-color:crimson;
+    color:black;
+    font-size: 15px;
+}
+
+.dark{
+    background-color: crimson;
+    color: wheat;
+}
+
+.light{
+    background-color: wheat;
+    color:crimson;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color:wheat;
+}
+
